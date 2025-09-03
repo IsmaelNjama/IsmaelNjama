@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:2463EB&height=180&section=header&text=Hi%20There!%20I'm%20Ismael%20Njama%20👋&fontSize=32&fontAlignY=40" alt="Welcome Banner" />
 </p>
 
-# 👨‍💻 Ismael Njama
+# 👨‍💻 Njama Ismael
 
 **Full Stack Engineer with a strong backend focus, skilled in building efficient and scalable solutions. Adaptable, collaborative, and driven to deliver meaningful impact through technology.**
 
