@@ -32,7 +32,7 @@
 
 ## 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-njama--ismael--1705b698-blue?logo=linkedin)](https://www.linkedin.com/in/njama-ismael-1705b698/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/njama-ismael-1705b698/)
 
 ---
 
