@@ -7,7 +7,7 @@
 
 **Full Stack Engineer with a strong backend focus, skilled in building efficient and scalable solutions. Adaptable, collaborative, and driven to deliver meaningful impact through technology.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-njama--ismael--1705b698-blue?logo=linkedin)](https://www.linkedin.com/in/njama-ismael-1705b698/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/njama-ismael-1705b698/)
 
 ---
 
