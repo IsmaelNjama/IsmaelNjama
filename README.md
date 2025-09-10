@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:2463EB&height=180&section=header&text=Hi%20There!%20I'm%20Njama%20Ismael%20👋&fontSize=32&fontAlignY=40" alt="Welcome Banner" />
 </p>
 
-# 👨‍💻 Njama Ismael
+# 👨‍💻 Full Stack Engineer
 
-**Full Stack Engineer with a strong backend focus, skilled in building efficient and scalable solutions. Adaptable, collaborative, and driven to deliver meaningful impact through technology.**
+**Skilled in building resilient, cost-effective infrastructure that scales intelligently. Backend-focused, adaptable, and collaborative, with a drive to deliver meaningful impact through technology.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/njama-ismael-1705b698/)
 
