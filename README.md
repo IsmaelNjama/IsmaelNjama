@@ -1,6 +1,6 @@
 <!-- Profile Banner (optional, replace with your own image if desired) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:2463EB&height=180&section=header&text=Hi%20There!%20I'm%20Njama%20Ismael%20👋&fontSize=32&fontAlignY=40" alt="Welcome Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:2463EB&height=180&section=header&text=Hi%20There!%20I'm%20Njama%20Ismael%20👋&fontSize=32&fontAlignY=40" alt="Welcome" />
 </p>
 
 # 👨‍💻 Full Stack Engineer
@@ -20,6 +20,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![EKS](https://img.shields.io/badge/-EKS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?logo=aws-cloudformation&logoColor=white&style=flat)
 ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?logo=pulumi&logoColor=white&style=flat)
@@ -42,5 +44,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+great+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+great+together!" alt="typing" />
 </p>
