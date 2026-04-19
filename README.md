@@ -1,7 +1,7 @@
 <!-- Profile Banner (optional, replace with your own image if desired) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:2463EB&height=180&section=header&text=Hi%20There!%20I'm%20Njama%20Ismael%20👋&fontSize=32&fontAlignY=40" alt="Welcome" />
-</p>
+</p> -->
 
 # 👨‍💻 Full Stack Engineer
 
