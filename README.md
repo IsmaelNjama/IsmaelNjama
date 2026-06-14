@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:2463EB&height=180&section=header&text=Hi%20There!%20I'm%20Njama%20Ismael%20👋&fontSize=32&fontAlignY=40" alt="Welcome" />
 </p> -->
 
-# 👨‍💻 Full Stack Engineer
+# 👨‍💻 AI & Backend Engineer
 
 **Skilled in building resilient, cost-effective infrastructure that scales intelligently. Backend-focused, adaptable, and collaborative, with a drive to deliver meaningful impact through technology.**
 
