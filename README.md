@@ -5,7 +5,7 @@
 
 # 👨‍💻 AI & Backend Engineer
 
-**Skilled in building resilient, cost-effective infrastructure that scales intelligently. Backend-focused, adaptable, and collaborative, with a drive to deliver meaningful impact through technology.**
+**Results-driven AI & Backend Engineer with 3+ years of experience building scalable, production-grade applications and intelligent systems. Adaptable, and collaborative, with a drive to deliver meaningful impact through technology.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/njama-ismael-1705b698/)
 
